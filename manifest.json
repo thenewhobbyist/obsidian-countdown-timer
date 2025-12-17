@@ -1,0 +1,11 @@
+{
+  "id": "countdown-timer",
+  "name": "Countdown Timer",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Embed countdown timers for tracking vacations, deadlines, and due dates.",
+  "author": "Chris Krueger",
+  "authorUrl": "https://github.com/thenewhobbyist",
+  "fundingUrl": "",
+  "isDesktopOnly": false
+}

@@ -1,0 +1,18 @@
+/* Make countdown wrappers inline and pass through clicks */
+.markdown-reading-view .el-pre:has(.countdown-local),
+.markdown-preview-view .el-pre:has(.countdown-local),
+.block-language-countdown {
+  display: inline !important;
+  pointer-events: none !important;
+}
+
+/* Live Preview */
+.cm-preview-code-block.cm-lang-countdown {
+  display: inline !important;
+  pointer-events: none !important;
+}
+
+/* The actual countdown is clickable */
+.countdown-local {
+  pointer-events: auto !important;
+}
