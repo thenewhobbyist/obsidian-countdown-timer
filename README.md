@@ -4,6 +4,8 @@ A simple countdown timer plugin for Obsidian.
 
 Perfect for dashboard homepages to track upcoming vacations, project deadlines, and due dates—no more clunky iframes needed.
 
+![Countdown Timer Demo](demo.png)
+
 *Built with Claude Opus 4.5*
 
 ## Usage
